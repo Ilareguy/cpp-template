@@ -1,6 +1,3 @@
-# airplay-receiver
-Test implementation of an AirPlay receiver based on data found at https://nto.github.io/AirPlay.html
-
 # Getting Started
 ## Prepare vcpkg
 See [Quick Start: Windows](https://github.com/microsoft/vcpkg#quick-start-windows).
